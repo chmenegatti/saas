@@ -35,6 +35,10 @@ Nossa **proposta de valor** é simples: **Organize, Encontre e Utilize seu acerv
 
 ### **Funcionalidades Chave:**
 
+* **Inteligência de Licitações e Oportunidades:** O sistema monitora automaticamente portais públicos e privados de licitação, identificando editais relevantes para o perfil do usuário (tipo de obra, região, valor, exigências técnicas). Ao detectar um edital compatível, o usuário recebe um alerta personalizado e pode visualizar rapidamente os requisitos do edital. O software cruza os requisitos do edital com o acervo do usuário, sugerindo os atestados/documentos que atendem aos critérios e apontando eventuais lacunas. Caso o usuário não possua todos os documentos necessários, o sistema sugere ações para fortalecer o acervo, como buscar novos atestados ou regularizar pendências. O histórico de editais monitorados e oportunidades aproveitadas facilita o planejamento estratégico do profissional ou empresa.
+
+* **Analytics e Benchmarking:** Dashboard interativo com indicadores-chave: tipos de obras cadastradas, valores totais, regiões atendidas, evolução do acervo ao longo do tempo. O usuário pode comparar seu acervo com médias do setor, identificar pontos fortes e oportunidades de melhoria. Relatórios de performance customizáveis mostram número de licitações participadas, taxa de sucesso, principais clientes e tipos de serviços realizados. Visualização de tendências e histórico de crescimento auxilia na tomada de decisão e posicionamento estratégico. Os dados podem ser exportados em PDF/Excel para uso em reuniões, apresentações ou planejamento interno.
+
 * **Cadastro de Usuário e Autenticação:** Processo simples de criação de conta, login seguro e recuperação de senha.
 * **Upload Seguro de Documentos:** Upload fácil de documentos (PDF, DWG, JPG, etc.) via web ou aplicativo mobile. Os documentos são armazenados na nuvem em servidores de alta disponibilidade e segurança, eliminando o risco de perda física.
 * **Upload de Edital com Análise por IA:** O usuário pode fazer upload do edital da licitação (PDF ou DOC), e o sistema utiliza inteligência artificial para analisar automaticamente as exigências do documento. Com base nessa análise, o software sugere os atestados e documentos do acervo que melhor atendem aos critérios, facilitando a montagem do dossiê. O usuário pode revisar e escolher quais documentos utilizar, otimizando o processo e reduzindo riscos de erro ou omissão.
@@ -201,6 +205,8 @@ O objetivo do MVP é ser lançado em 4-6 meses, focando nas funcionalidades esse
 4. Criação de tags e categorias manuais.
 5. Busca simples por texto e tags.
 6. Dashboard com visualização dos últimos documentos adicionados.
+7. Inteligência de Licitações (MVP): Monitoramento manual ou semiautomático de editais, cruzamento básico dos requisitos do edital com o acervo do usuário, sugestão dos documentos que atendem aos critérios e alerta de lacunas.
+8. Analytics (MVP): Painel simples com indicadores de tipos de obras, valores e evolução do acervo, exportação básica de dados para PDF/Excel.
 
 **Observação:** O MVP não incluirá inicialmente integração BIM, mas o roadmap prevê campo específico para informações BIM e geração de relatórios customizáveis conforme exigências de editais e clientes corporativos.
 
