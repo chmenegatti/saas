@@ -77,6 +77,8 @@ flowchart TD
 ---
 
 ## **3. Diferenciais Competitivos**
+
+* **Portabilidade Ética do Acervo Profissional:** O AcervoTech permite que, ao ser desligado de uma empresa, o profissional receba a oferta de manter seu próprio acervo técnico de forma independente, migrando facilmente para um plano individual. Isso é feito de maneira ética, transparente e em conformidade com a LGPD, garantindo que apenas os documentos de sua titularidade sejam transferidos. Caso o profissional seja recontratado por outra empresa que utilize o AcervoTech, seu acervo pode ser facilmente importado para o ambiente corporativo, promovendo continuidade, valorização do histórico e mobilidade de carreira.
 * **IA aplicada à análise de editais:** O AcervoTech inova ao permitir o upload do edital e análise automática por IA, sugerindo os melhores atestados do acervo para cada caso. Isso reduz drasticamente o tempo de preparação para licitações e aumenta a assertividade das propostas.
 
 O mercado possui soluções genéricas, mas o AcervoTech se destaca por ser uma ferramenta especialista, construída com foco cirúrgico nas necessidades do seu público.
