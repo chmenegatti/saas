@@ -103,4 +103,34 @@ Validar as principais dores do público-alvo e entregar valor imediato, focando 
 
 ## Observações
 
-O MVP deve ser enxuto, funcional e focado em resolver a dor principal do público-alvo, servindo como base para validação e evolução do produto.
+
+## Próximos Passos Pós-MVP (Roadmap de Evolução)
+
+1. **Relatórios Automáticos e Customizados**
+   - Geração de dossiês e quadros customizados para licitações, exportação em PDF/Excel, personalização conforme edital.
+2. **Integrações Regulatórias**
+   - APIs para importação automática de ARTs/RRTs do CREA/CAU, atualização automática do acervo.
+3. **Gestão de Equipes e Permissões Avançadas**
+   - Controle granular de acesso, múltiplos usuários, permissões por projeto/documento, histórico de ações.
+4. **Dashboard Avançado e Analytics**
+   - Indicadores de performance, benchmarking com o setor, relatórios de uso, exportação de dados.
+5. **Inteligência de Licitações**
+   - Monitoramento automático de portais de licitação, cruzamento dos requisitos do edital com o acervo, sugestão de documentos e alertas de oportunidades.
+6. **Mobile App Completo**
+   - Digitalização via câmera, upload instantâneo, notificações inteligentes, assistente virtual.
+7. **Automação de Compliance**
+   - Checklist automático de conformidade, alertas de pendências, sugestões de regularização.
+8. **Marketplace de Serviços**
+   - Conexão com despachantes, consultores, advogados, ofertas de serviços complementares.
+9. **Assinatura Digital e Blockchain**
+   - Assinatura digital integrada, registro em blockchain para autenticidade e integridade dos documentos.
+10. **Gamificação e Certificação**
+    - Badges, certificações digitais, ranking opcional de profissionais/empresas mais preparados.
+11. **API Pública e Ecossistema**
+    - API aberta para integração com ERPs, CRMs, softwares de orçamento, plugins de terceiros.
+12. **Suporte Proativo e Consultivo**
+    - Suporte consultivo para análise de editais, compliance, central de conhecimento, templates e dicas.
+
+## Observações
+
+O MVP deve ser enxuto, funcional e focado em resolver a dor principal do público-alvo, servindo como base para validação e evolução do produto. O roadmap acima detalha todas as etapas para que o AcervoTech evolua até uma versão completa, robusta e estável, capaz de atender desde autônomos até grandes empresas, com diferenciais competitivos e alto valor agregado.
