@@ -19,9 +19,9 @@ As projeções financeiras, baseadas em cenários conservador e otimista, indica
 
 A gestão do acervo técnico é uma dor latente e universal para profissionais e empresas de engenharia e arquitetura. A complexidade não reside apenas no volume, mas na criticidade e na necessidade de acesso rápido e organizado a esses documentos. Os principais desafios são:
 
-* **Desorganização Crônica e Perda de Documentos:** A prática comum envolve uma mistura de documentos físicos arquivados em pastas, arquivos digitais espalhados por múltiplos computadores, HDs externos e contas genéricas de armazenamento em nuvem (Google Drive, Dropbox). Essa fragmentação leva inevitavelmente à perda de documentos importantes por falha de hardware, incêndio, roubo ou simples desorganização. Para uma empresa, a saída de um funcionário pode significar a perda de um acervo valioso.
+* **Desorganização Crônica e Risco de Compliance:** A prática comum envolve uma mistura de documentos físicos arquivados em pastas, arquivos digitais espalhados por múltiplos computadores, HDs externos e contas genéricas de armazenamento em nuvem (Google Drive, Dropbox). Essa fragmentação leva à dificuldade de localização, inconsistência de versões e risco de não conseguir comprovar experiência técnica em tempo hábil. Para uma empresa, a saída de um funcionário pode significar a perda de conhecimento sobre a localização e contexto do acervo, mesmo que os arquivos ainda existam.
 * **Dificuldade de Acesso e Busca Ineficiente:** Encontrar um atestado específico emitido há cinco anos para uma nova licitação pode se tornar uma caça ao tesouro de horas ou dias. A busca é manual, baseada na memória ou em sistemas de nomeação de arquivos inconsistentes. Não há como realizar buscas complexas, como "encontrar todas as ARTs de obras de saneamento acima de R$500.000,00 executadas no estado de São Paulo".
-* **Risco de Compliance e Perda de Oportunidades:** O sucesso em licitações públicas ou a qualificação para grandes projetos privados depende da comprovação rápida e precisa da capacidade técnica. A incapacidade de apresentar os documentos corretos, organizados e dentro do prazo resulta na desqualificação e na perda de receita. Além disso, a não renovação de certificados ou anuidades do CREA/CAU por esquecimento pode levar a multas e à impossibilidade de exercer a profissão.
+* **Risco de Compliance e Perda de Oportunidades:** O sucesso em licitações públicas ou a qualificação para grandes projetos privados depende da comprovação rápida e precisa da capacidade técnica. A incapacidade de apresentar os documentos corretos, organizados e dentro do prazo resulta na desqualificação e na perda de receita. Além disso, a não renovação de certificados, anuidades do CREA/CAU ou certidões por esquecimento pode levar a multas, bloqueio de participação em licitações e até à impossibilidade de exercer a profissão. Alertas automáticos para esses vencimentos são essenciais para evitar riscos financeiros e reputacionais.
 * **Ineficiência Operacional e Custo Oculto:** O tempo gasto por profissionais altamente qualificados (e caros) para procurar, organizar e compilar documentos é um custo operacional significativo e raramente medido. Esse tempo poderia ser investido em atividades que geram receita, como o desenvolvimento de novos projetos ou a prospecção de clientes.
 * **Segurança e Colaboração Precárias:** Compartilhar documentos técnicos sensíveis por e-mail ou links públicos de serviços genéricos representa um risco de segurança. Não há controle de versão, rastreabilidade de acesso ou permissões granulares, o que dificulta a colaboração segura com parceiros, clientes ou para fins de auditoria.
 
@@ -35,6 +35,9 @@ Nossa **proposta de valor** é simples: **Organize, Encontre e Utilize seu acerv
 
 ### **Funcionalidades Chave:**
 
+* **Cadastro de Usuário e Autenticação:** Processo simples de criação de conta, login seguro e recuperação de senha.
+* **Upload Seguro de Documentos:** Upload fácil de documentos (PDF, DWG, JPG, etc.) via web ou aplicativo mobile. Os documentos são armazenados na nuvem em servidores de alta disponibilidade e segurança, eliminando o risco de perda física.
+* **Upload de Edital com Análise por IA:** O usuário pode fazer upload do edital da licitação (PDF ou DOC), e o sistema utiliza inteligência artificial para analisar automaticamente as exigências do documento. Com base nessa análise, o software sugere os atestados e documentos do acervo que melhor atendem aos critérios, facilitando a montagem do dossiê. O usuário pode revisar e escolher quais documentos utilizar, otimizando o processo e reduzindo riscos de erro ou omissão.
 * **Digitalização e Armazenamento Centralizado:** Upload fácil de documentos (PDF, DWG, JPG, etc.) via web ou aplicativo mobile. Os documentos são armazenados na nuvem em servidores de alta disponibilidade e segurança, eliminando o risco de perda física.
 * **Tecnologia OCR e Indexação Inteligente:** No momento do upload, nossa tecnologia de Reconhecimento Óptico de Caracteres (OCR) "lê" o conteúdo de documentos escaneados, como ARTs e atestados. Ele extrai automaticamente dados cruciais como número do documento, data, contratante, valor da obra e palavras-chave.
 * **Busca Semântica e Filtros Avançados:** O usuário pode realizar buscas que vão além do nome do arquivo. Exemplos:
@@ -42,7 +45,8 @@ Nossa **proposta de valor** é simples: **Organize, Encontre e Utilize seu acerv
   * `"Todas as RRTs do arquiteto João Silva em 2023"`
   * `"Projetos com área construída > 1000m² para o cliente XYZ"`
 * **Alertas e Notificações Automatizadas:** O sistema monitora as datas de validade de todos os documentos cadastrados (certificados, licenças, anuidades CREA/CAU) e envia alertas automáticos por e-mail e notificação push, evitando perdas de prazo e multas.
-* **Geração de Relatórios e Dossiers:** Com poucos cliques, o profissional ou a empresa pode gerar um dossier completo para uma licitação, selecionando os documentos pertinentes (ARTs, CATs, Atestados) que o sistema compila em um único PDF profissional, com capa e índice customizáveis.
+* **Relatório/Dossiê de Atestados para Licitações:** O sistema permite ao usuário inserir as exigências do edital (ex: tipo de obra, valor mínimo, pontuação, campos obrigatórios) e, automaticamente, sugere os atestados que atendem a esses critérios. O cliente pode então selecionar quais atestados utilizar, e o software gera um "quadro resumo" customizado com todos os dados relevantes (pontuação, dados exigidos, etc.), pronto para exportação em PDF ou Excel. A personalização do layout e dos campos do quadro é feita conforme o edital, agregando muito valor ao processo de licitação e aumentando a competitividade do cliente.
+* **Gestão de Espaço de Armazenamento e Separação de Acervo:** O sistema permite o controle do espaço utilizado, com alertas de proximidade do limite do plano contratado, e separa claramente o acervo de cada profissional do acervo da empresa, garantindo organização, privacidade e compliance para ambos os contextos.
 * **Gestão de CAT (Certidão de Acervo Técnico):** Um módulo específico para acompanhar o status da solicitação da CAT junto ao CREA/CAU, vinculando todas as ARTs/RRTs correspondentes.
 * **Integração com Órgãos Reguladores (Visão de Futuro):** Em fases futuras, planejamos desenvolver APIs para se conectar diretamente aos sistemas do CREA/CAU (quando disponível), permitindo a importação automática de ARTs/RRTs registradas, garantindo que o acervo esteja sempre 100% atualizado.
 * **Segurança e Controle de Acesso:** Criptografia de ponta (AES-256) para dados em repouso e em trânsito. O administrador da conta pode definir permissões granulares (visualizar, baixar, editar) por usuário ou por projeto, além de gerar links de compartilhamento seguros e com prazo de validade.
@@ -73,12 +77,15 @@ flowchart TD
 ---
 
 ## **3. Diferenciais Competitivos**
+* **IA aplicada à análise de editais:** O AcervoTech inova ao permitir o upload do edital e análise automática por IA, sugerindo os melhores atestados do acervo para cada caso. Isso reduz drasticamente o tempo de preparação para licitações e aumenta a assertividade das propostas.
 
 O mercado possui soluções genéricas, mas o AcervoTech se destaca por ser uma ferramenta especialista, construída com foco cirúrgico nas necessidades do seu público.
 
 * **Verticalização e Foco no Nicho:** Não somos um Google Drive com mais pastas. Toda a taxonomia, os fluxos de trabalho e a terminologia da plataforma são desenhados para engenheiros e arquitetos. Entendemos o que é uma ART, uma CAT e uma RRT, e o sistema reflete essa especialização.
 * **Usabilidade e Experiência do Usuário (UX/UI):** A interface será limpa, intuitiva e direta. Profissionais técnicos valorizam a eficiência. A curva de aprendizado será mínima, permitindo que o valor seja percebido desde o primeiro acesso.
 * **Automação Inteligente:** Nosso principal diferencial tecnológico é a automação via OCR e a IA para categorização e busca. Isso economiza centenas de horas de trabalho manual por ano para nossos clientes, justificando o investimento.
+* **Mitigação de Riscos do Free Trial:** O período de teste gratuito será cuidadosamente monitorado para evitar uso abusivo, com limites claros de armazenamento e funcionalidades, e comunicação transparente sobre a transição para o plano pago.
+* **Atenção à Concorrência:** O mercado de soluções de armazenamento e gestão documental é altamente competitivo, com grandes players globais e soluções locais. O AcervoTech se diferencia pelo foco no nicho, mas mantém vigilância constante sobre movimentos de concorrentes e adapta rapidamente sua proposta de valor.
 * **Segurança e Conformidade com a LGPD:** Tratamos os documentos dos nossos clientes como nosso ativo mais precioso. Além da segurança técnica, a plataforma será 100% aderente à Lei Geral de Proteção de Dados (LGPD), um fator crucial para empresas que lidam com contratos e dados de clientes.
 * **Escalabilidade e Personalização:** A arquitetura do sistema permitirá atender desde um arquiteto autônomo com dezenas de documentos até uma construtora multinacional com centenas de milhares de registros, oferecendo planos e funcionalidades que se adaptam a cada perfil.
 
@@ -111,6 +118,8 @@ Adotaremos um modelo de receita recorrente baseado em assinaturas, que garante p
 | **Usuários Incluídos** | 1 | 5 (usuário adicional: R$ 25/mês) | Ilimitado (negociação customizada) |
 | **Armazenamento** | 50 GB | 250 GB | Ilimitado |
 | **Digitalização com OCR** | 100 páginas/mês | 500 páginas/mês | Ilimitado |
+| **Alertas de Vencimento e Certidões** | ✔️ | ✔️ | ✔️ |
+| **Separação de Acervo Profissional/Empresa** | ✔️ | ✔️ | ✔️ |
 | **Busca Inteligente** | ✔️ | ✔️ | ✔️ |
 | **Alertas de Vencimento** | ✔️ | ✔️ | ✔️ |
 | **Relatórios Básicos** | ✔️ | ✔️ | ✔️ |
@@ -161,6 +170,7 @@ O cenário competitivo é composto por players diretos e, mais perigosamente, in
 | Concorrente | Tipo | Pontos Fortes | Pontos Fracos | Como nos Posicionamos |
 | :--- | :--- | :--- | :--- | :--- |
 | **Google Drive / Dropbox / OneDrive** | Indireto | Baixo custo (ou gratuito), familiaridade, integração com outras ferramentas do ecossistema. | Genérico, sem funcionalidades específicas, busca ineficiente para documentos técnicos, sem automação, segurança básica. | Somos a solução **especialista**. Nossa automação e inteligência oferecem um ROI claro ao economizar tempo e reduzir riscos. |
+| **Grandes Players de Software de Engenharia** | Direto | Forte capacidade de investimento, integração com BIM e outros sistemas, presença internacional. | Alto custo, complexidade, pouca flexibilidade para pequenas empresas, suporte distante. | O AcervoTech oferece agilidade, adaptação local e foco total no acervo técnico, com integração planejada para BIM e relatórios customizáveis. |
 | **Planilhas (Excel / Google Sheets)** | Indireto | Custo zero, altamente customizável. | Totalmente manual, propenso a erros, não escalável, sem segurança, sem alertas, visualização precária. | Somos a evolução natural da planilha. Oferecemos estrutura, segurança e automação que uma planilha jamais poderá entregar. |
 | **Sistemas ERP Genéricos** | Indireto | Já implementado na empresa, centraliza muitas operações. | Módulos de gestão de documentos (GED) são caros, complexos e não especializados para acervo técnico. | Somos uma solução "best-of-breed" que pode se **integrar** ao ERP, cuidando da parte de acervo com maestria e enviando os dados necessários para o sistema principal. |
 | **Pequenos Players Locais** | Direto | Podem ter um relacionamento inicial com clientes na sua região. | Geralmente possuem tecnologia defasada, pouca escalabilidade, UX pobre e falta de capital para inovação. | Superamos pela **tecnologia superior**, melhor experiência do usuário e uma estratégia de marketing e parcerias de nível nacional. |
@@ -171,6 +181,7 @@ O cenário competitivo é composto por players diretos e, mais perigosamente, in
 * **Fraquezas:** Marca nova no mercado, necessidade de educar o cliente sobre o problema, ciclo de vendas potencialmente longo para contas Enterprise.
 * **Oportunidades:** Mercado enorme e mal atendido, transformação digital acelerada no setor, possibilidade de expansão para outros países da América Latina.
 * **Ameaças:** Entrada de um grande player de tecnologia no nicho, mudanças regulatórias abruptas do CREA/CAU, resistência cultural à adoção de novas tecnologias.
+* **Ameaças Reforçadas:** O risco de grandes empresas globais ou soluções de engenharia ampliarem seu escopo para o nicho de acervo técnico é real. A diferenciação contínua, agilidade e proximidade com o cliente serão essenciais para manter a competitividade.
 
 ---
 
@@ -188,6 +199,8 @@ O objetivo do MVP é ser lançado em 4-6 meses, focando nas funcionalidades esse
 4. Criação de tags e categorias manuais.
 5. Busca simples por texto e tags.
 6. Dashboard com visualização dos últimos documentos adicionados.
+
+**Observação:** O MVP não incluirá inicialmente integração BIM, mas o roadmap prevê campo específico para informações BIM e geração de relatórios customizáveis conforme exigências de editais e clientes corporativos.
 
 ### **Stack Tecnológico Proposto:**
 
