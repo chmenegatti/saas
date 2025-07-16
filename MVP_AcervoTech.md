@@ -103,7 +103,6 @@ Validar as principais dores do público-alvo e entregar valor imediato, focando 
 
 ## Observações
 
-
 ## Próximos Passos Pós-MVP (Roadmap de Evolução)
 
 1. **Relatórios Automáticos e Customizados**
@@ -131,6 +130,6 @@ Validar as principais dores do público-alvo e entregar valor imediato, focando 
 12. **Suporte Proativo e Consultivo**
     - Suporte consultivo para análise de editais, compliance, central de conhecimento, templates e dicas.
 
-## Observações
+## Observações 2
 
 O MVP deve ser enxuto, funcional e focado em resolver a dor principal do público-alvo, servindo como base para validação e evolução do produto. O roadmap acima detalha todas as etapas para que o AcervoTech evolua até uma versão completa, robusta e estável, capaz de atender desde autônomos até grandes empresas, com diferenciais competitivos e alto valor agregado.
